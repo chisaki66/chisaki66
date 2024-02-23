@@ -8,4 +8,4 @@ Hi, I'm Chisaki. This is my profile.
 |Website|Link|Repository|Tech Stack|
 |:--|:--|:--|:--|
 |Portfolio|[link](https://www.chisaki-ibe.com/)|[repo](https://github.com/chisaki66/portfolio)|Vue.js, Nuxt.js|
-|StockChart|~link~|[repo](https://github.com/chisaki66/stock-chart)|React.js|
+|StockChart|~link~|[repo](https://github.com/chisaki66/stock-chart)|JavaScript, React.js|
