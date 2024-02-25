@@ -13,4 +13,4 @@ JavaScript / React.js / Vue.js / Next.js / Nuxt.js / TypeScript / Node.js / Jest
 |Website|Link|Repository|Tech Stack|
 |:--|:--|:--|:--|
 |Portfolio|[link](https://www.chisaki-ibe.com/)|[repo](https://github.com/chisaki66/portfolio)|Vue.js, Nuxt.js|
-|StockChart|~link~|[repo](https://github.com/chisaki66/stock-chart)|JavaScript, React.js|
+|StockChart|[link](https://stock-chart-theta.vercel.app/)|[repo](https://github.com/chisaki66/stock-chart)|JavaScript, React.js|
