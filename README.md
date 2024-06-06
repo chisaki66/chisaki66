@@ -7,7 +7,7 @@ Hi, I'm Chisaki. This is my profile.
 
 ### 👩‍💻 Skilled
 
-JavaScript / React.js / React Native / Vue.js / Nuxt.js / TypeScript / Node.js / Jest / Vue Test Utils / PHP / GraphQL / HTML5 / CSS3 and SASS / Expo / Electron
+JavaScript / React.js / React Native / Vue.js / Nuxt.js / TypeScript / Node.js / Jest / Vue Test Utils / PHP / GraphQL / Storybook / Swagger / HTML5 / CSS3 and SASS / Expo / Electron
 
 ### 📋 Resources
 |App|Link|Repository|Tech Stack|
