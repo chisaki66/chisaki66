@@ -15,3 +15,4 @@ JavaScript / React.js / React Native / Vue.js / Nuxt.js / TypeScript / Node.js /
 |StockChart|~~[link]()~~ 現在は非公開です|[repo](https://github.com/chisaki66/stock-chart)|JavaScript, React.js|
 |ShibaMobileApp|進行中|[repo](https://github.com/chisaki66/shiba-mobile-app)|JavaScript, React Native, Expo|
 |ShibaDesktopApp|進行中|[repo](https://github.com/chisaki66/shiba-desktop-app)|JavaScript, React.js, Electron |
+|allies|現在は非公開です|[repo](https://github.com/chisaki66/allies)|Ruby, Ruby on Rails |
