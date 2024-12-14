@@ -16,4 +16,4 @@ JavaScript / React.js / React Native / Vue.js / Nuxt.js / TypeScript / Node.js /
 |ShibaMobileApp|進行中|[repo](https://github.com/chisaki66/shiba-mobile-app)|JavaScript, React Native, Expo|
 |ShibaDesktopApp|進行中|[repo](https://github.com/chisaki66/shiba-desktop-app)|JavaScript, React.js, Electron|
 |allies|現在は非公開です|[repo](https://github.com/chisaki66/allies)|Ruby, Ruby on Rails|
-|RealEstateTransactionsGraph|[repo](https://github.com/chisaki66/real-estate-transactions-graph)|TypeScript, React.js|
+|RealEstateTransactionsGraph|[link](https://real-estate-transactions-graph.vercel.app/)|[repo](https://github.com/chisaki66/real-estate-transactions-graph)|TypeScript, React.js|
