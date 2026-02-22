@@ -7,29 +7,36 @@ Hi, I'm Chisaki. This is my profile.
 
 ### 👩‍💻 Skilled
 
-#### Programming Languages / Frameworks
-- JavaScript / TypeScript
-- React.js / React Native / Vue.js / Nuxt.js / Node.js / NestJS
+**Programming Languages / Frameworks**
 
-#### Frontend / UI Development
+- JavaScript / TypeScript
+- Node.js / NestJS
+- React.js / React Native / Vue.js / Nuxt.js
+
+**Frontend / UI Development**
+
 - HTML5 / CSS3 / SASS
 - SPA開発 / レスポンシブデザイン
 - Storybook / Vite / Jest
 
-#### Backend / API Development
-- REST API設計・実装
-- バックエンド負荷最適化
+**Backend / API Development**
 
-#### Cloud / Infrastructure
+- REST API設計・実装（エンドポイント設計・認証・バリデーション）
+- データベース設計・最適化（MySQL, BigQuery）
+- バックエンド負荷最適化・パフォーマンス改善
+- サーバーサイドロジック・ビジネスロジック実装
+- CI/CDパイプライン構築（デプロイ自動化・テスト自動化）
+
+**Cloud / Infrastructure**
+
 - Firebase / Google Cloud
-- CI/CDパイプライン構築
+- サーバー・クラウド環境構築・運用
 
-#### Data / Analytics
-- MySQL / BigQuery
+**Data / Testing**
 
-#### Testing / Quality Assurance
-- Python / Playwright
+- Python / Playwright（E2Eテストの自動化）
 
-#### Project / Team Management
+**Project / Team Management**
+
 - チームマネジメント / プロジェクトマネジメント
 - コードレビュー / タスク管理
