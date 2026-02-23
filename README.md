@@ -12,10 +12,12 @@ Hi, I'm Chisaki. This is my profile.
 - JavaScript / TypeScript
 - Node.js / NestJS
 - React.js / React Native / Vue.js / Nuxt.js
+- TypeORM
 
 **Frontend / UI Development**
 
 - HTML5 / CSS3 / SASS
+- Tailwind CSS
 - SPA開発 / レスポンシブデザイン
 - Storybook / Vite / Jest
 
@@ -29,8 +31,16 @@ Hi, I'm Chisaki. This is my profile.
 
 **Cloud / Infrastructure**
 
-- Firebase / Google Cloud
-- サーバー・クラウド環境構築・運用
+- Firebase（Authentication / Firestore / Hosting）
+- Google Cloud
+  - Cloud Run
+  - Cloud Functions
+  - Cloud Scheduler
+  - Cloud Tasks
+  - BigQuery
+  - IAM設定
+  - Secret Manager
+  - Logging / Monitoring
 
 **Data / Testing**
 
