@@ -20,6 +20,8 @@ Hi, I'm Chisaki. This is my profile.
 - Tailwind CSS
 - SPA開発 / レスポンシブデザイン
 - Storybook / Vite / Jest
+- コンポーネント設計 / 再利用性を意識したUI設計
+- デザイナーと連携したUI実装（Figmaデザインの再現・改善提案）
 
 **Backend / API Development**
 
