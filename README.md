@@ -26,7 +26,6 @@ Hi, I'm Chisaki. This is my profile.
 **Backend / API Development**
 
 - REST API設計・実装（エンドポイント設計・認証・バリデーション）
-- データベース設計・最適化（MySQL, BigQuery）
 - バックエンド負荷最適化・パフォーマンス改善
 - サーバーサイドロジック・ビジネスロジック実装
 - CI/CDパイプライン構築（デプロイ自動化・テスト自動化）
