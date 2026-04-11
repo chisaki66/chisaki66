@@ -49,5 +49,4 @@ Hi, I'm Chisaki. This is my profile.
 
 **Project / Team Management**
 
-- チームマネジメント / プロジェクトマネジメント
 - コードレビュー / タスク管理
